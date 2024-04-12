@@ -9,14 +9,14 @@
 ## Low-Level vs High-Level languages
 
 **Low-level** languages are closer to binary (how the computer "thinks").
--Difficult to read and write
--Fast
--Precise control
+- Difficult to read and write
+- Fast
+- Precise control
 
 **High-level** languages are closer to how humans communicate.
--Java
--Python
--C++
+- Java
+- Python
+- C++
 
 
 

@@ -3,7 +3,7 @@
 This repository contains notes and code examples related to the "Learning to Code: Definitions" playlist by Codecademy on YouTube. The playlist explores common terms and acronyms used in programming across various languages and frameworks.
 
 ## Table of Contents
-1. What is a programming language?
+1. [What is a programming language?](notes/programming-language.md)
 2. What are libraries and frameworks?
 3. Front-end vs back-end: What's the difference?
 4. What is front-end?
